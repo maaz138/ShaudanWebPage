@@ -2956,7 +2956,7 @@ img.u-pull-left {
  * ------------------------------------------------------------------- */
 .s-header {
     --header-height : 64px;
-    --logo-width    : 72px;
+    --logo-width    : 85px;
     z-index         : 100;
     width           : 100%;
     background-color: var(--color-1);
