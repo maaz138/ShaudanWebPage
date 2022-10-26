@@ -3839,7 +3839,7 @@ img.u-pull-left {
  *
  * ------------------------------------------------------------------- */
 .s-footer {
-    background-color: var(--color-gray-19);
+    background-color: var(8AE28E);
     padding-top     : var(--vspace-4_5);
     padding-bottom  : var(--vspace-2);
 }
@@ -3852,7 +3852,7 @@ img.u-pull-left {
 .s-footer__bottom {
     max-width : 800px;
     font-size : 1.5rem;
-    color     : rgba(255, 255, 255, 0.2);
+    color     : rgb(21, 202, 21);
     text-align: center;
 }
 
@@ -3871,7 +3871,7 @@ img.u-pull-left {
     letter-spacing: 0.15em;
     margin-top    : 0;
     margin-bottom : var(--vspace-2);
-    color         : white;
+    color         : rgb(21, 202, 21);
 }
 
 .s-footer .contact-email {
@@ -3883,7 +3883,7 @@ img.u-pull-left {
 }
 
 .s-footer .contact-email a {
-    color: white;
+    color: rgb(21, 202, 21);
     color: var(--color-1);
 }
 
@@ -3897,7 +3897,7 @@ img.u-pull-left {
     font-weight    : 400;
     margin-left    : auto;
     margin-right   : auto;
-    color          : rgba(255, 255, 255, 0.3);
+    color          : rgb(21, 202, 21);
 }
 
 .s-footer .contact-info li {
@@ -3907,12 +3907,12 @@ img.u-pull-left {
 }
 
 .s-footer .contact-info a {
-    color: rgba(255, 255, 255, 0.3);
+    color: rgb(21, 202, 21);
 }
 
 .s-footer .contact-info a:focus,
 .s-footer .contact-info a:hover {
-    color: white;
+    color: rgb(21, 202, 21);
 }
 
 /* -------------------------------------------------------------------
@@ -3946,7 +3946,7 @@ img.u-pull-left {
 }
 
 .s-footer__social svg path {
-    fill: rgba(255, 255, 255, 0.5);
+    fill: rgb(21, 202, 21);
 }
 
 /* -------------------------------------------------------------------
@@ -3957,7 +3957,7 @@ img.u-pull-left {
 }
 
 .ss-copyright a {
-    color: rgba(255, 255, 255, 0.5);
+    color: rgb(21, 202, 21);
 }
 
 .ss-copyright a:focus,
@@ -3973,7 +3973,7 @@ img.u-pull-left {
     content: "|";
     display: inline-block;
     padding: 0 0.8rem 0 1rem;
-    color  : rgba(255, 255, 255, 0.05);
+    color  : rgb(18, 86, 18);
 }
 
 .ss-copyright span:last-child::after {
@@ -4003,7 +4003,7 @@ img.u-pull-left {
     height          : 6rem;
     width           : 6rem;
     border-radius   : 50%;
-    background-color: black;
+    background-color: rgb(111, 218, 111);
     transition      : all 0.3s;
     position        : relative;
 }
